@@ -3,7 +3,7 @@
 .detail-container{
     position: relative;
     display:flex;
-    align-items: left ;
+    align-items: center ;
 }
 .about-sec{
     margin: 10px;
@@ -23,12 +23,11 @@
 }
 .about-sec img{
     height: 100%;
-    width: 100%;
+    width: 320px;
     border-radius: 50%;
 }
 .intro-sec{
     position: relative;
-    
     align-items: right;
     margin: 30px;
 }

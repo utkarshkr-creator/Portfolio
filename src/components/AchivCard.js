@@ -3,13 +3,12 @@ import { NavLink } from 'react-router-dom'
 import './AchivCardStyle.css'
 const AchivCard = (props) => {
     return (
-        <div className="Achiv-card">
-        <img src={props.imgsrc} alt='Achiv' />
-        <div className='achiv-details'>
+        <div className="Achivement-card">
+        <div className='img-cont'>
+        <img src={props.imgsrc} alt='Achivement' />
+        </div>
+        <div className='pro-details'>
             <p>{props.text}</p>
-            <div className='achiv-btns'>
-                <NavLink to={props.view} className='btn'>View</NavLink>
-            </div>
         </div>
     </div>
     )

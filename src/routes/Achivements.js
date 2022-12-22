@@ -10,7 +10,6 @@ const Achivements = () => {
       <Navbar/>
       <HeroImg heading="Achivements" text="Some of My Achivements"/>
       <Achiv/>
-      <ImgSlider/>
       <Footer/>
     </div>
   )

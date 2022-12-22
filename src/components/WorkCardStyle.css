@@ -1,10 +1,11 @@
 .project-heading{
+    color: #555555;
     text-align: center;
     padding: 4rem 0 2rem 0;
 
 }
 .work-container{
-    background:#FFB9B9;
+    background:white;
 }
 .project-container{
     max-width: 1140px;

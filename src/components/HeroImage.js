@@ -13,7 +13,7 @@ const HeroImage = () => {
             <img src="https://i.imgur.com/g58i1ss.png" alt="Avtar" className="avtar"></img>
             <p>HI, I'M A COMPETITIVE PROGRAMMER</p>
             <h1> React Developer.</h1>
-            <Link to="/Profile" className="btn">Profile</Link>
+            <Link to="/Achivement" className="btn">Achivement</Link>
             <Link to="/Project" className="btn">Project</Link>
             <Link to="/Contact" className="btn btn-light">Contact</Link>
         </div>

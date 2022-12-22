@@ -15,7 +15,6 @@ const Home = () => {
       <AboutSec/>
       <Work/>
       <Achiv/>
-      <ImgSlider/>
       <Footer/>
     </div>
   )
