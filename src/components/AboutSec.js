@@ -10,7 +10,7 @@ function AboutSec() {
           <img src='https://i.imgur.com/jGIcpN2.jpg' alt='profile-pic'></img>
         </div>
         <div className='intro-sec'>
-          <p>"Hello! My name is [Your Name] and I am a competitive programmer with a passion for coding. I have experience in a range of programming languages and technologies, including data structures and algorithms, C/C++, Python, HTML/CSS, React, and JavaScript.</p>
+          <p>"Hello! My name is Utkarsh Kumar and I am a competitive programmer with a passion for coding. I have experience in a range of programming languages and technologies, including data structures and algorithms, C/C++, Python, HTML/CSS, React, and JavaScript.</p>
 
           <p>I am a self-motivated and detail-oriented individual, with a strong ability to problem-solve and think critically. I enjoy tackling complex challenges and finding creative solutions to problems.</p>
 

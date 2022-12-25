@@ -10,7 +10,6 @@
     margin-left: 60px;
     padding: 20px;
     margin-bottom: auto;
-    /* background-color: white; */
     width: 421.6px;
     height: 421.6px;
 }
@@ -29,7 +28,11 @@
 .intro-sec{
     position: relative;
     align-items: right;
+    
     margin: 30px;
+}
+.intro-sec p{
+     color: gray;
 }
 .Introheader{
     font-family: 'Outfit', sans-serif;

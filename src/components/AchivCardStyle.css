@@ -25,6 +25,7 @@
 .Achivement-card{
     background: #863A6F;
     padding: 1.2rem 1rem;
+    box-shadow: 10px 10px 10px -5px #333;
 }
 .img-cont{
     display: block;
