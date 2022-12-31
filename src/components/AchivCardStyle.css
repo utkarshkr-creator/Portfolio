@@ -1,11 +1,13 @@
 .Achivement-heading{
+    margin: 0;
     color: #555555;
     text-align: center;
     padding: 4rem 0 2rem 0;
 
 }
 .Ach-container{
-    background:white;
+    margin: 0;
+    background:#cac3b8;
     text-align: center;
     align-items: center;
 }
@@ -23,7 +25,7 @@
 
 }
 .Achivement-card{
-    background: #863A6F;
+    background: #839a9b;
     padding: 1.2rem 1rem;
     box-shadow: 10px 10px 10px -5px #333;
 }
@@ -33,7 +35,8 @@
     text-align: center;
 }
 .Achivement-card img{
-    width: 40%;
+    width: 80%;
+    border-radius: 10px;
 }
 
 .pro-details p{
@@ -51,6 +54,11 @@
 }
 .pro-btns .btn{
      padding: 0.5rem 1rem;
+}
+@media screen  and (max-width:980px){
+    .Achivement-container{
+        grid-template-columns: repeat(3,1fr);
+    }
 }
 
 @media screen  and (max-width:740px){

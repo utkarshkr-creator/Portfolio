@@ -1,11 +1,10 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
 import './AchivCardStyle.css'
 const AchivCard = (props) => {
     return (
         <div className="Achivement-card">
         <div className='img-cont'>
-        <img src={props.imgsrc} alt='Achivement' />
+        <img  src={props.imgsrc} alt='Achivement' />
         </div>
         <div className='pro-details'>
             <p>{props.text}</p>

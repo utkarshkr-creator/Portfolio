@@ -8,7 +8,7 @@
 
 .hero-img::before {
     content:"";
-    background:url("https://images.unsplash.com/photo-1628521495179-ca4448a584d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background:url("./Assest/lo.jpg");
     background-size: cover;
     background-position: center top;
     height: 100%;
@@ -32,10 +32,12 @@
 
 .hero-img h1{
     font-size: 2.4rem;
+    color: #28272a;
 }
 .hero-img p{
      font-size: 1.4rem;
      text-align: center;
+     color: #839a9b;
 }
 
 @media screen  and (max-width:640px){
