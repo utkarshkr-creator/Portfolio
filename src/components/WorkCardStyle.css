@@ -29,6 +29,9 @@
 .project-card img{
    
     width: 100%;
+    height: 200px;
+    object-fit: fill;
+
     /* margin-bottom: auto; */
 }
 .project-title{
@@ -38,11 +41,19 @@
      padding:1rem 0;
      margin-bottom: auto;
 }
+
 .pro-details p{
     padding-bottom: 1rem;
     font-size: 1.1rem;
     text-align: justify;
 
+}
+.ptext{
+    height: 360px;
+   
+    /* overflow:hidden; */
+    /* overflow-x: hidden;*/
+    /* overflow-y: scroll; */
 }
 .pro-btns{
     display: flex;

@@ -6,9 +6,9 @@ function AboutSec() {
     <div className='about-cont'>
       <h1 className='name'>Meet Utkarsh Kumar</h1>
       <div className='detail-container'>
-        <div className='about-sec'>
+        {/* <div className='about-sec'> */}
           <img className='about-img' src='https://i.imgur.com/jGIcpN2.jpg' alt='profile-pic'></img>
-        </div>
+        {/* </div> */}
         <div className='intro-sec'>
           <p>"Hello! My name is Utkarsh Kumar and I am a competitive programmer with a passion for coding. I have experience in a range of programming languages and technologies, including data structures and algorithms, C/C++, Python, HTML/CSS, React, and JavaScript.</p>
 

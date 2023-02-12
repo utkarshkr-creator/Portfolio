@@ -8,10 +8,10 @@ import Work from '../components/Work'
 const Project = () => {
   return (
     <div>
-      <Navbar></Navbar>
+      <Navbar/>
       <HeroImg heading="PROJECTS." text="Some of my Recent Work" />
       <Work/>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   )
 }

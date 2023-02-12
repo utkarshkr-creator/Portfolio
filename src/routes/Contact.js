@@ -14,7 +14,7 @@ const Contact = () => {
       <HeroImg heading="Contact" text="If you are looking to get ahold of me, you can send me an email at 2022krutkarsh@gmail.com"/>
     
   
-      <Footer/>
+      {/* <Footer/> */}
       
     </div>
   )

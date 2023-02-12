@@ -3,9 +3,9 @@ import './AchivCardStyle.css'
 const AchivCard = (props) => {
     return (
         <div className="Achivement-card">
-        <div className='img-cont'>
-        <img  src={props.imgsrc} alt='Achivement' />
-        </div>
+        
+        <img className='img-cont' src={props.imgsrc} alt='Achivement' />
+        
         <div className='pro-details'>
             <p>{props.text}</p>
         </div>

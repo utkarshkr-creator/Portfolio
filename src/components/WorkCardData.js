@@ -2,7 +2,7 @@ const WorkCardData=[
     {
         imgsrc:"https://img.freepik.com/premium-photo/hand-closer-up-hands-businessmen-stacking-wooden-blocks-into-steps_34936-1947.jpg?w=1060",
         title:"ToDo",
-        text:"I built a Todo website using React, and Redux. The website allows users to create, mark as completed, and delete their own to-do lists and tasks. I faced the challenge of efficiently updating the state of the application in real-time as the user made changes to their lists, which I solved by implementing Redux to manage the application’s state. This project helped me improve my skills in front-end web development and using modern JavaScript libraries",
+        text:"I built a Todo website using React, and Redux. The website allows users to create, mark as completed, and delete their own to-do lists and tasks. I faced the challenge of efficiently updating the state of the application in real-time as the user made changes to their lists, which I solved by implementing Redux to manage the application’s state.",
         view:"https://eloquent-peony-890b9b.netlify.app/",
         source:"https://github.com/utkarshkr-creator/ToDo"
     },

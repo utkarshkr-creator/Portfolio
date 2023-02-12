@@ -29,8 +29,11 @@ const Navbar = () => {
                 <Link to="/Achivement">Achivement</Link>
             </li>
             <li >
-                <Link to="/About">About</Link>
+                <Link to="/Education">Education</Link>
             </li>
+            {/* <li >
+                <Link to="/About">About</Link>
+            </li> */}
             <li >
                 <Link to="/Project">Project</Link>
             </li>
@@ -49,4 +52,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar;
