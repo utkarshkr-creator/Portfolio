@@ -11,7 +11,7 @@ const Education = () => {
         <div className="row">
             <div className="col-lg-12 text-center">
                 <div className="navy-line"></div>
-                <h1>The Way I am</h1>
+                <h1 style={{fontSize:"6rem"}}>The Way I am</h1>
                 <p>The hierarchy to my life. </p>
             </div>
         </div>

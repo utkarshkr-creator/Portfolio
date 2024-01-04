@@ -31,13 +31,13 @@
 }
 
 .hero-img h1{
-    font-size: 2.4rem;
-    color: #28272a;
+    font-size: 5.4rem;
+    color: #f4cd0a;
 }
 .hero-img p{
      font-size: 1.4rem;
      text-align: center;
-     color: #839a9b;
+     color: #0ad5e0;
 }
 
 @media screen  and (max-width:640px){

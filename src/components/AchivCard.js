@@ -10,6 +10,7 @@ const AchivCard = (props) => {
             <p>{props.text}</p>
         </div>
     </div>
+    
     )
 }
 
