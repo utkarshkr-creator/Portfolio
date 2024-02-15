@@ -18,7 +18,7 @@ const HeroImage = () => {
             <h1>MERN Developer</h1>
             {/* <Link to="/Achivement" className="btn">Achivement</Link> */}
             {/* <Link to="/Project" className="btn">Project</Link> */}
-            <a href="https://drive.google.com/file/d/1tfGsBwGhoXp4Hbn5IoL5nMrs_uXc0BSg/view?usp=drive_link" target="_blank" className="btn" rel="noopener noreferrer">Resume</a>
+        {/*<a href="https://drive.google.com/file/d/1tfGsBwGhoXp4Hbn5IoL5nMrs_uXc0BSg/view?usp=drive_link" target="_blank" className="btn" rel="noopener noreferrer">Resume</a>*/}
 
             {/* <Link to="/Contact" className="btn btn-light">Contact</Link> */}
 
