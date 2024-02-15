@@ -15,7 +15,7 @@ const HeroImage = () => {
         <div className="content">
             <img src={avtar} alt="Avtar" className="avtar"></img>
             <p>HI, I'M A COMPETITIVE PROGRAMMER</p>
-            <h1> Full Stack Developer</h1>
+            <h1>MERN Developer</h1>
             {/* <Link to="/Achivement" className="btn">Achivement</Link> */}
             {/* <Link to="/Project" className="btn">Project</Link> */}
             <a href="https://drive.google.com/file/d/1tfGsBwGhoXp4Hbn5IoL5nMrs_uXc0BSg/view?usp=drive_link" target="_blank" className="btn" rel="noopener noreferrer">Resume</a>

@@ -19,19 +19,19 @@ const AchivData=[
     ,
     {
         imgsrc:"https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY",
-        text:"Secured 2561 Rank in Educational Codeforces Round 130 among 14k participants.",
-        view:"url.com"
+        text:"Secured 1963 Rank in Div 3 Codeforces Round 900 among 22k participants.",       
+        view:"url.com",
     }
     ,
     {
         imgsrc:"https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY",
-        text:"Highest rating of 1254 at Codeforces.",
+        text:"Highest rating of 1341 at Codeforces.",
         view:"url.com"
     }
     ,
     {
         imgsrc:"https://repository-images.githubusercontent.com/180398813/a57fa200-b4bb-11e9-9a12-a53353dce24a",
-        text:"Highest rating of 570 at Atcoder",
+        text:"Highest rating of 649 at Atcoder",
         view:"url.com"
     }
     ,

@@ -12,6 +12,7 @@
 .project-container{
     max-width: 1140px;
     margin: auto;
+    height: auto;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 40px;
@@ -47,14 +48,13 @@
     padding-bottom: 1rem;
     font-size: 1.1rem;
     text-align: justify;
-
 }
 .ptext{
-    height: 360px;
+    height: 300px;
    
     /* overflow:hidden; */
-    /* overflow-x: hidden;*/
-    /* overflow-y: scroll; */
+     overflow-x: hidden;
+     overflow-y: scroll;
 }
 .pro-btns{
     display: flex;
